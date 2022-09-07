@@ -1,2 +1,2 @@
-# biostat776-intro-mia-campbell
-first website I built on my own! this is an assignment for a course in graduate school
+# Meeting Mia 
+this  website contains a short introduction of Mia Campbell
