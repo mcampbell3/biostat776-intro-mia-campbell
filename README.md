@@ -1,5 +1,5 @@
 # [+ A Chance to Meet Mia +]
-this  website contains a short introduction of Mia Campbell
+this  website contains a short introduction to Mia Campbell
 
 ## About Mia
 - Mia Campbell, MHS is a trauma-informed yoga instructor, creator, and student-researcher who is passionate about adolescent mental health, movement, and holistic wellness. She is from Queens and Long Island NY and also a proud second-generation immigrant with family from Grenada, West Indies and London, England. Mia completed her undergraduate degree in Biology of Global Health at Georgetown University where she first gained experience with epidemiology and introductory programming for scientists. She has worked in psychiatry and epidemiology labs as a research coordinator and data analyst. She has programming experience with R, MatLab, SAS and STATA and has conducted logistic regression analysis in her work. She has co-authored a book chapter and is currently working on her first first-author publication. 
@@ -13,7 +13,9 @@ Currently, as a doctoral student at the Bloomberg School of Public Health she us
 4. Mia went skydiving for her 26th birthday and will likely do it again! 
 5. Mia loves to read and can easily get lost in a good book. 
 
-## Something interesting
-The body and mind connection is very strong. This book, [The Body Keeps the Score](https://www.besselvanderkolk.com/resources/the-body-keeps-the-score), by VanDerKolk gives a fabuloous introduction to this connection. 
+## Interesting Reads
+- The body and mind connection is very strong. The book, [The Body Keeps the Score](https://www.besselvanderkolk.com/resources/the-body-keeps-the-score), by Van Der Kolk gives a fabulous introduction to this connection. 
+- The build environment plays a pivotal role in a persons mental health. [Biophilic architecture and design](https://wholemood.com/design/biophilic-architecture/) connect individuals to the enviroment in a beautiful intentional way. This [blog](https://www.yankodesign.com/2022/08/15/top-10-architectural-structures-that-are-the-epitome-of-biophilic-design/) highlights some incredible designs! 
+
 
 
