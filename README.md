@@ -7,7 +7,7 @@ this  website contains a short introduction of Mia Campbell
 - In 2020, Mia was awarded a Fulbright grant to conduct adolescent mental health stigma research in India. Unfortunately, due to the COVID-19 pandemic she did not embark on her trip or project. However, Mia pivoted and in 2021 she started at the Bloomberg School of Public Health as a MHS student in the Dept of Mental Health. 
 Currently, as a doctoral student at the Bloomberg School of Public Health she uses epidemiological methods in her research to assess mental health inequities among adolescents. She hopes that this statistical computing course will solidfy some of her self taught programming skills and also provide opportunities to work on building a strong foundation for more complex analysis and best practices in future reproducible research! 
 
-### Fun Facts 
+## Fun Facts 
 1. Mia began showcasing her mixed media art on her website [MyInnerAura] (https://myinneraura.com/) during the early stages of the pandemic and found it to be truly healing and liberating. 
 2. Mia started practicing yoga when she was 12 years old.
 3. Mia spoke French as a second language when she was 4 years old. She's a bit rusty now but still enjoys the langauge.
